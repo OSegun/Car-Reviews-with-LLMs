@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Car-ing is Sharing is an auto dealership company for car sales and rental that has developed a prototype chatbot application leveraging pre-trained Hugging Face Large Language Models (LLMs). This application can address diverse customer inquiries including sentiment analysis of car reviews, language translation, question answering, and text summarization.
+An AI prototype application leveraging pre-trained Hugging Face Large Language Models (LLMs). This application can address diverse customer inquiries including sentiment analysis of car reviews, language translation, question answering, and text summarization.
 
 
 ## 🌟 Task
@@ -100,8 +100,8 @@ evaluate
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/car-ing-is-sharing.git
-   cd car-ing-is-sharing
+   git clone https://github.com/your-username/car-reviws-with-llms
+   cd car-reviews-with-llms
    ```
 
 2. **Install the dependencies**:
